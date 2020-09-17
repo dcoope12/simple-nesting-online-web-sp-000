@@ -54,10 +54,10 @@ def dennis_ritchies_language
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages.to_s => ["C"]
+          :languages. => ["C"]
         }
      }
-   programmer_hash[:dennis_ritchies][:languages]
+   programmer_hash[:dennis_ritchie][:languages]
 end
 
 def adding_matz
